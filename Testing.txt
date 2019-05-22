@@ -1,0 +1,101 @@
+Test Case 1:
+
+
+
+
+
+Enter name,email id , no. of backlogs and %age of student
+
+Xyz
+
+xyz@gmail.com
+
+0
+
+71                                    
+
+Enter 1 to add more Students or enter 0 to display Recommended Students List
+
+0
+
+Recommended Students:
+
+Xyz  
+
+
+
+Test Case 2:
+
+
+
+
+
+Enter name,email id , no. of backlogs and %age of student
+
+Xyz
+
+xyz@gmail.com
+
+8            // Exception: can't have more than 6 backlogs  
+
+Student can't have more than 6 backlogs ,enter valid data
+
+5
+
+70
+
+Enter 1 to add more Students or enter 0 to display Recommended Students List
+
+1
+
+Enter name,email id , no. of backlogs and %age of student
+
+abc
+
+abc@gmail.com
+
+0
+
+65
+
+Enter 1 to add more Students or enter 0 to display Recommended Students List
+
+0
+
+Recommended Students:
+
+abc
+
+
+
+
+
+
+
+Test Case 3:
+
+
+
+
+
+Enter name,email id , no. of backlogs and %age of student
+
+abc
+
+abc@gmail.com
+
+0
+
+209  // Exception: Can't have %age more than 100
+
+Invalid percentage ,enter again
+
+61
+
+Enter 1 to add more Students or enter 0 to display Recommended Students List
+
+0
+
+Recommended Students:
+
+abc
